@@ -57,7 +57,7 @@ The earlier you do this, the more your project will be seen - post your project 
 
 ## The Tree
 
-Making it myself! Or hiring from [here](http://www.palmbrokers.com/catalogue/fibreglass-trees-for-hire/cartoon-style-fibreglass-tree) (quote TBC).
+Making it myself! ~~Or hiring from [here](http://www.palmbrokers.com/catalogue/fibreglass-trees-for-hire/cartoon-style-fibreglass-tree) (quote TBC). TOO MUCH MONEY :dollar: ~~
 
 ### Materials
 
