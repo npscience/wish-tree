@@ -1,14 +1,14 @@
 # Creating a wish tree for MozFest 2017 
 
-Session: (Open Science Public Park)[https://github.com/MozillaFoundation/mozfest-program-2017/issues/574] 
+Session: [Open Science Public Park](https://github.com/MozillaFoundation/mozfest-program-2017/issues/574)
 
 ## Overview
 
 To help seed collaboration across the open science projects at MozFest (or still in your head!), the open science public park will feature a "wishing" tree.
 
-(See examples)[https://www.google.co.uk/search?q=wishing+tree&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi338zEjrHWAhXnD8AKHbRSB8MQ_AUICygC&biw=1867&bih=916]
+[See examples](https://www.google.co.uk/search?q=wishing+tree&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi338zEjrHWAhXnD8AKHbRSB8MQ_AUICygC&biw=1867&bih=916)
 
-On this tree, project leads can post their projects, and interested contributors can add their details to a project. It will be a visual and creative focal point for open science enthusiasts to meet, work and collaborate. (I've asked for some beanbags/chairs/table form Mozilla.)
+On this tree, project leads can post their projects, and interested contributors can add their details to a project. It will be a visual and creative focal point for open science enthusiasts to meet, work and collaborate. (I've asked for some beanbags/chairs/table from Mozilla.)
 
 ## How to contribute
 
@@ -56,6 +56,8 @@ The earlier you do this, the more your project will be seen - post your project 
 * Attach it to the relevant project card using treasury tags.
 
 ## The Tree
+
+Making it myself! Or hiring from [here](http://www.palmbrokers.com/catalogue/fibreglass-trees-for-hire/cartoon-style-fibreglass-tree) (quote TBC).
 
 ### Materials
 
