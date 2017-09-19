@@ -85,4 +85,4 @@ TBC - will be assembling precut pieces, then simple decoration
 
 ## Related event
 
-On MozFest Sunday, eLife will be hosting a lunchtime event for open science project leads and interested contrbutors to gather. We invite you to present your project and call for contributors in a short (2-minute) talk on our open science soapbox. It's an open 'mic' (without a mic though!) so you can register your interest early (method TBC) or come along on the day.
+On MozFest Sunday, eLife will be hosting a lunchtime event for open science project leads and interested contributors to gather. We invite you to present your project and call for contributors in a short (2-minute) talk on our open science soapbox. It's an open 'mic' (without a mic though!) so you can register your interest early (method TBC) or come along on the day.
