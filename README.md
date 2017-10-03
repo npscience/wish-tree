@@ -57,31 +57,11 @@ The earlier you do this, the more your project will be seen - post your project 
 
 ## The Tree
 
-Making it myself! ~~Or hiring from [here](http://www.palmbrokers.com/catalogue/fibreglass-trees-for-hire/cartoon-style-fibreglass-tree) (quote TBC). TOO MUCH MONEY~~
-
-### Materials
-
-Main structure:
-* 2-3 large cardboard packaging tubes
-* 9 branches made from flat corrugated cardboard
-* 4 support struts / "tree roots"
-* gaffer tape
-* Plain brown paper
-* Sellotape
-
-To decorate:
-
-* pipecleaners
-* Tissue paper
-* Craft glue
-
-### Design
-
-Design document TBC
+Buying it! ~~Making it myself! TOO DANGEROUS FOR MY AND YOUR HEALTH!~~ ~~Or hiring from [here](http://www.palmbrokers.com/catalogue/fibreglass-trees-for-hire/cartoon-style-fibreglass-tree) (quote TBC). TOO MUCH MONEY~~
 
 ### Assembly
 
-TBC - will be assembling precut pieces, then simple decoration
+I will be assembling precut pieces on Friday Oct 27. Help very welcome :hugs:
 
 ## Related event
 
